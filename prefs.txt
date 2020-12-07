@@ -24,7 +24,7 @@ aichi
 mie
 shiga
 kyoto
-osaka
+osaka,osaka
 hyogo
 nara
 wakayama

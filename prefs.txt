@@ -6,7 +6,7 @@ akita
 yamagata
 fukushima
 ibaraki
-tochigi
+tochigi,utsunomiya
 gunma
 saitama
 chiba

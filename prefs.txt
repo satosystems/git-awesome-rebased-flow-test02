@@ -38,7 +38,7 @@ kagawa
 ehime
 kochi
 fukuoka
-saga
+saga,saga
 nagasaki
 kumamoto
 oita

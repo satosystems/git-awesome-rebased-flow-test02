@@ -1,0 +1,22 @@
+*  (topic2)
+* 
+| *  (topic5)
+| *  (topic7, topic4)
+|/  
+| *  (topic6)
+|/  
+*    (HEAD -> develop)
+|\  
+| *  (topic3)
+|/  
+*   
+|\  
+| *  (topic8, topic1)
+|/  
+*    (main)
+|\  
+| * 
+|/| 
+| *  (topic0)
+|/  
+* 

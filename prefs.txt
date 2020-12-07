@@ -9,7 +9,7 @@ ibaraki
 tochigi
 gunma
 saitama
-chiba
+chiba,chiba
 tokyo
 kanagawa
 niigata

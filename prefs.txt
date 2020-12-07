@@ -1,4 +1,4 @@
-hokkaido
+hokkaido,sapporo
 aomori
 iwate
 miyagi

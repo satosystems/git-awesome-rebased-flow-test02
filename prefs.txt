@@ -17,7 +17,7 @@ toyama
 ishikawa
 fukui
 yamanashi
-nagano
+nagano,nagano
 gifu
 shizuoka
 aichi

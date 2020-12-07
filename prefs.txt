@@ -11,7 +11,7 @@ gunma
 saitama
 chiba
 tokyo
-kanagawa
+kanagawa,yokohama
 niigata
 toyama
 ishikawa
